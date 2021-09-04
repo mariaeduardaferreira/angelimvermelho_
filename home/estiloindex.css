@@ -240,6 +240,7 @@ p{
     border-width:1.5vh;
     border-color: #227E20;
     border-radius: 3vh;
+    background-color: #4aa5da7c;
 }
 #q2{
     max-width:25%;
@@ -249,6 +250,7 @@ p{
     border-width:1.5vh;
     border-color: #227E20;
     border-radius: 3vh;
+    background-color: #52c2417a;
 }
 #q3{
     max-width:25%;
@@ -258,6 +260,7 @@ p{
     border-width:1.5vh;
     border-color: #227E20;
     border-radius: 3vh;
+    background-color: #c295418c;
 }
 .tit{
     background-color: #523A32;
@@ -497,6 +500,7 @@ a{
     border-width:1.5vh;
     border-color: #227E20;
     border-radius: 3vh;
+    
     }
     #q2{
     min-width:90%;
@@ -505,6 +509,7 @@ a{
     border-width:1.5vh;
     border-color: #227E20;
     border-radius: 3vh;
+   
     }
     #q3{
     min-width:90%;
@@ -513,7 +518,9 @@ a{
     border-width:1.5vh;
     border-color: #227E20;
     border-radius: 3vh;
+    
     }
+    
     .tit{
         font-size:medium;
     }   
